@@ -16,6 +16,8 @@ Fiz a página de galeria de um blog de viagens utizando api para gerar imagens a
 - HTML 
 - CSS
 
+[Clique aqui para acessar](https://thalesfortes.github.io/PhotGallery/)
+
 # Autor
 
 Thales de Abreu Fortes da Silva
